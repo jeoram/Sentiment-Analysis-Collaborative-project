@@ -187,7 +187,3 @@ pytest tests/unit/test_inference.py
 
 ---
 
-*(Projet réalisé dans le cadre du cours de Machine Learning — Sentiment Analysis 2025.)*
-````
-
----
